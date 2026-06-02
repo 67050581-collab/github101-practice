@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| santawan bootsetarathh | Team 16 | hipster | [example evidence](docs/evidence/example-student.md) | - |
+| santawan bootsetarathh | Team 16 | hipster | [https://github.com/67050581-collab/github101-practice/blob/main/docs/evidence/67050581-santawan.md ] | [https://github.com/67050581-collab/github101-practice/blob/main/docs/issues/67050581-santawan.md] |
 
 ---
 
